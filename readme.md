@@ -1,4 +1,3 @@
+# Algoritmo Genetico
 
-* Valores da equação X
-**  Numero de genes
-*** Numero de cromossomos
+Repositório criado am classe de aula.
